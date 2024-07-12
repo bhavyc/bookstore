@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Book One",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed.",
+      "price": 0,
+      "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1720569600&semt=ais_hybrid",
+      "category": "free"
+    },
+    {
+      "id": 2,
+      "name": "Book Two",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed.",
+      "price": 50,
+      "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1720569600&semt=ais_hybrid",
+      "category": "Non-Fiction"
+    },
+    {
+      "id": 3,
+      "name": "Book Three",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed." ,
+      "price": 0,
+      "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1720569600&semt=ais_hybrid",
+      "category": "free"
+    },
+    {
+      "id": 4,
+      "name": "Book Four",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed.",
+      "price": 0,
+      "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1720569600&semt=ais_hybrid",
+      "category": "History"
+    },
+    {
+      "id": 5,
+      "name": "Book Five",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed.",
+      "price":  11110,
+      "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1720569600&semt=ais_hybrid",
+      "category": "Biography"
+    },
+    {
+        "id": 6,
+        "name": "Book Five",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed.",
+        "price":  0,
+        "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1720569600&semt=ais_hybrid",
+        "category": "free"
+      }
+  ]
+   
